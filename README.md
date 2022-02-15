@@ -28,8 +28,8 @@ npm install
 You can find all the info for following the workshop [here](https://www.notion.so/prismaio/A-Practical-Introduction-to-Prisma-2021-ccf00a066ef4432caeb03da179e38302).
 
 Or simply follow the instruction inside these PDF:
-- [intro](prisma_intro.pdf) of workshop
+- [intro](prima_intro.pdf) of workshop
 - [setup](prisma_1_setup.pdf) prisma
 - explore prisma [client](prisma_2_client.pdf) 
 - use prisma into [restapi](prisma_3_restapi.pdf)
-- use prisma with [graphql](prisma_4_restapi.pdf)
+- use prisma with [graphql](prisma_4_graphql.pdf)
